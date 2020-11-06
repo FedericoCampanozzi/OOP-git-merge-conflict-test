@@ -1,3 +1,3 @@
 # OOP-git-merge-conflict-test
-# Eliminata feature
+# Eliminata branch feature
 # Esercizio finito
